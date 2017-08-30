@@ -80,5 +80,5 @@ theme: hueman
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/hesansi/hesansi.github.io.git
+  repo: https://github.com/entitasblog/entitasblog.github.io.git
   branch: master
