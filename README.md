@@ -1,1 +1,0 @@
-# entitasblog.github.io
