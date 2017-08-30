@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexooo
+title: EntitasCN
 subtitle:
 description:
 author: John Doe
@@ -80,5 +80,5 @@ theme: hueman
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/entitasblog/entitasblog.github.io.git
+  repo: git@entitas.github.com:entitasblog/entitasblog.github.io.git
   branch: master
